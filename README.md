@@ -13,13 +13,13 @@ W to repo wrzucamy wszystko co chcielibyście byśmy omówili z inżynierami App
 
 *kzietek*
 
-###Sprite Kit
+### Sprite Kit
 
 - Is Render-to-texture available?
 	- I want to render a scene, apply a shader to every pixel on screen and display untouched GUI on the top. Is this posible with reasonable performance?
 - I want to render the game scene in low resolution, upscale it and display GUI in native resolution. Is this possible?
 
-###UIKit
+### UIKit
 
 - I want to apply blur in the same fashion as UIVisualEffectView but without changing the color and with a radius of 6pt. Contents underneath the view are moving. Is there a solution with decent performance? Currently I'm using private API and it's a shame that this isn't welcomed on the App Store:
 
