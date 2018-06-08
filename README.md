@@ -33,3 +33,5 @@ W to repo wrzucamy wszystko co chcielibyście byśmy omówili z inżynierami App
         return blurEffect
     }
 ```
+
+*Engineer Answear: There's no solution for this right now, even more - we're recommend droping UIBlurView & EffectView because they're going to be depracated soon but UIKit will be more than welcome for filing a bug report for this feature*
